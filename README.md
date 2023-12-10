@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanui-prog" alt="tanui-prog" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tanuiprog" target="blank"><img src="https://img.shields.io/twitter/follow/victortanui?logo=twitter&style=for-the-badge" alt="victortanui" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tanui_prog" target="blank"><img src="https://img.shields.io/twitter/follow/tanui_prog?logo=twitter&style=for-the-badge" alt="victortanui" /></a> </p>
 
 - 🌱 I’m currently learning **django,js**
 
