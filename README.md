@@ -31,10 +31,10 @@ As a software engineer, I bring a wealth of expertise and innovation to the digi
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [social media app]()  
+- 🔭 I’m currently working on Django management system
   
 
-- 🌱 I’m currently learning Django   
+- 🌱 I’m currently learning React 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
