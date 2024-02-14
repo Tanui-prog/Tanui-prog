@@ -3,7 +3,7 @@
 
 
 
-### Skilled Full-stack developer   
+### Software Engineer  
 <a href="https://tanui-prog.github.io" target="_blank">Hire Me</a>
 <div align="center">
 <a href="https://linkedin.com/in/victortanui" target="_blank">
